@@ -1,0 +1,33 @@
+lement.style {
+    opacity: 1;
+    transform: none;
+}
+.footer {
+    background: #141414;
+    padding: 50px 0;
+    color: #fff;
+    margin-top: 10px;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Gill Sans, Gill Sans MT, Calibri, Trebuchet MS, sans-serif;
+}
+user agent stylesheet
+footer {
+    display: block;
+    unicode-bidi: isolate;
+}
+html, body {
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+    color: #fff;
+}
+::-webkit-scrollbar {
+    display: none;
+}
+::selection {
+    background-color: #f01;
+}
